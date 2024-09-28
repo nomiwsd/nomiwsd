@@ -44,7 +44,7 @@
 ### 🚀 Featured Projects
 
 <!-- Zextons Project -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/nomiwsd/zextons" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/shopping-cart.png" alt="Zextons"/>
   </a>
@@ -59,7 +59,7 @@
 </p>
 
 <!-- SehatSakoon Project -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/nomiwsd/sehatsakoon" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/medical-heart.png" alt="SehatSakoon"/>
   </a>
@@ -73,7 +73,7 @@
 </p>
 
 <!-- Vesprr Project -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/nomiwsd/vesprr" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/internet.png" alt="Vesprr"/>
   </a>
@@ -199,10 +199,6 @@ Here are the technologies and tools I work with:
 
 ---
 
-<!-- Footer Snake Animation -->
-<p align="center">
-  <img src="https://github.com/nomiwsd/nomiwsd/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
-</p>
 
 <!-- Visitors Count -->
 <p align="center">
