@@ -45,9 +45,6 @@
 
 <!-- Zextons Project -->
 <p align="left">
-  <a href="https://github.com/nomiwsd/zextons" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/shopping-cart.png" alt="Zextons"/>
-  </a>
   <b>Zextons</b> - An e-commerce website built using React.js and Redux Toolkit with payment integration features (Stripe, PayPal).  
   <br/>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
@@ -55,34 +52,25 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
   <br/>
-  <img src="https://img.shields.io/github/stars/nomiwsd/zextons?style=social" alt="GitHub Stars"/>
 </p>
 
 <!-- SehatSakoon Project -->
 <p align="left">
-  <a href="https://github.com/nomiwsd/sehatsakoon" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/medical-heart.png" alt="SehatSakoon"/>
-  </a>
   <b>SehatSakoon</b> - A medical field application with modules for admin, doctors, patients, and pharmacies.  
   <br/>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <br/>
-  <img src="https://img.shields.io/github/stars/nomiwsd/sehatsakoon?style=social" alt="GitHub Stars"/>
 </p>
 
 <!-- Vesprr Project -->
 <p align="left">
-  <a href="https://github.com/nomiwsd/vesprr" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/internet.png" alt="Vesprr"/>
-  </a>
   <b>Vesprr</b> - Developed a complete company website using React JS and Tailwind CSS.  
   <br/>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <br/>
-  <img src="https://img.shields.io/github/stars/nomiwsd/vesprr?style=social" alt="GitHub Stars"/>
 </p>
 
 ---
