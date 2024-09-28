@@ -1,6 +1,11 @@
-<!-- Your Name & Headline with Animated Icons -->
-<h1 align="center">Hi 👋, I'm Muhammad Nouman</h1>
-<h3 align="center">A passionate Front-End Developer specializing in <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white" alt="React.js" /> and modern UI frameworks.</h3>
+<!-- Header with animated waving hand -->
+<h1 align="center">Hi there, I'm Muhammad Nouman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h3 align="center">A passionate Front-End Developer specializing in React.js, Redux Toolkit, and modern UI frameworks.</h3>
+
+<!-- Visitor counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nomiwsd&label=Profile%20views&color=0e75b6&style=flat" alt="nomiwsd" />
+</p>
 
 <!-- Animated GIF -->
 <p align="center">
@@ -41,16 +46,19 @@
 Here are some of my recent projects:
 
 - **[Zextons](https://github.com/nomiwsd/zextons)**  
-  *An e-commerce website built using React.js and Redux Toolkit, with features like Stripe and PayPal integration.*  
-  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  ![Project Star](https://img.shields.io/github/stars/nomiwsd/zextons?style=social)  
+  *An e-commerce website built using React.js and Redux Toolkit, featuring state management and payment integration (Stripe, PayPal).*  
+  **Tech Stack:** React.js, Redux Toolkit, Tailwind CSS, Material UI
 
 - **[SehatSakoon](https://github.com/nomiwsd/sehatsakoon)**  
-  *A medical field application with admin, doctor, and patient management, developed with React JS and Firebase.*  
-  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
+  ![Project Star](https://img.shields.io/github/stars/nomiwsd/sehatsakoon?style=social)  
+  *A medical application with modules for admin, doctors, patients, and pharmacies, developed using React JS and Firebase.*  
+  **Tech Stack:** React.js, Firebase, Tailwind CSS
 
 - **[Vesprr](https://github.com/nomiwsd/vesprr)**  
-  *Developed the company website using React JS and Tailwind CSS.*  
-  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  ![Project Star](https://img.shields.io/github/stars/nomiwsd/vesprr?style=social)  
+  *Developed the complete company website using React JS and Tailwind CSS.*  
+  **Tech Stack:** React.js, Tailwind CSS
 
 ---
 
@@ -80,26 +88,26 @@ Here are the technologies and tools I work with:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nomiwsd&show_icons=true&hide_border=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomiwsd&layout=compact&hide_border=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nomiwsd&show_icons=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomiwsd&layout=compact&hide_border=true&theme=radical" />
 </p>
 
 ---
 
-<!-- GitHub Profile Trophies with Icons -->
+<!-- GitHub Streak Stats -->
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomiwsd&theme=radical&hide_border=true" alt="nomiwsd" />
+</p>
+
+---
+
+<!-- GitHub Trophies with Icons -->
 ### 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nomiwsd&theme=onedark&no-frame=true&column=6" />
-</p>
-
----
-
-<!-- Contributions Section -->
-### 🔥 My Contribution Streak
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=nomiwsd&theme=highcontrast&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nomiwsd&theme=radical&no-frame=true&column=6" alt="nomiwsd" />
 </p>
 
 ---
@@ -111,7 +119,32 @@ Here are the technologies and tools I work with:
 
 ---
 
-<!-- Footer Section with Icons -->
+<!-- Connect with me Section -->
+### 🤝 Connect with me
+
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <a href="mailto:nomimalik8051@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/></a>
+  <a href="https://linkedin.com/in/nouman-frontenddev" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/nomiwsd" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
+</p>
+
+---
+
+<!-- Dynamic Quote -->
+### 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
+---
+
+<!-- Footer with Snake Animation -->
+<p align="center">
+  <img src="https://github.com/nomiwsd/nomiwsd/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
+<!-- Visitors Count -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nomiwsd.nominalik8051" alt="visitors"/>
 </p>
