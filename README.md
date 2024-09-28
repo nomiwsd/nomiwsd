@@ -43,23 +43,35 @@
 <!-- Projects Section with Icons and Presentable Layout -->
 ### 🚀 Featured Projects
 
-Here are some of my recent projects:
+<p align="center">
+  <!-- Zextons Project -->
+  <a href="https://github.com/nomiwsd/zextons" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/shopping-cart.png" alt="Zextons"/>
+  </a>
+  <b>Zextons</b> - An e-commerce website built using React.js and Redux Toolkit with payment integration features (Stripe, PayPal).  
+  <em>Tech Stack:</em> React.js, Redux Toolkit, Tailwind CSS, Material UI  
+  <img src="https://img.shields.io/github/stars/nomiwsd/zextons?style=social" alt="GitHub Stars"/>
+</p>
 
-- **[Zextons](https://github.com/nomiwsd/zextons)**  
-  ![Project Star](https://img.shields.io/github/stars/nomiwsd/zextons?style=social)  
-  *An e-commerce website built using React.js and Redux Toolkit, featuring state management and payment integration (Stripe, PayPal).*  
-  **Tech Stack:** React.js, Redux Toolkit, Tailwind CSS, Material UI
+<p align="center">
+  <!-- SehatSakoon Project -->
+  <a href="https://github.com/nomiwsd/sehatsakoon" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/medical-heart.png" alt="SehatSakoon"/>
+  </a>
+  <b>SehatSakoon</b> - A medical field application with modules for admin, doctors, patients, and pharmacies.  
+  <em>Tech Stack:</em> React.js, Firebase, Tailwind CSS  
+  <img src="https://img.shields.io/github/stars/nomiwsd/sehatsakoon?style=social" alt="GitHub Stars"/>
+</p>
 
-- **[SehatSakoon](https://github.com/nomiwsd/sehatsakoon)**  
-  ![Project Star](https://img.shields.io/github/stars/nomiwsd/sehatsakoon?style=social)  
-  *A medical application with modules for admin, doctors, patients, and pharmacies, developed using React JS and Firebase.*  
-  **Tech Stack:** React.js, Firebase, Tailwind CSS
-
-- **[Vesprr](https://github.com/nomiwsd/vesprr)**  
-  ![Project Star](https://img.shields.io/github/stars/nomiwsd/vesprr?style=social)  
-  *Developed the complete company website using React JS and Tailwind CSS.*  
-  **Tech Stack:** React.js, Tailwind CSS
-
+<p align="center">
+  <!-- Vesprr Project -->
+  <a href="https://github.com/nomiwsd/vesprr" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/internet.png" alt="Vesprr"/>
+  </a>
+  <b>Vesprr</b> - Developed a complete company website using React JS and Tailwind CSS.  
+  <em>Tech Stack:</em> React.js, Tailwind CSS  
+  <img src="https://img.shields.io/github/stars/nomiwsd/vesprr?style=social" alt="GitHub Stars"/>
+</p>
 ---
 
 <!-- Skills Section with Icon Badges -->
@@ -165,11 +177,10 @@ Here are the technologies and tools I work with:
 
 ---
 
-<!-- Footer with Snake Animation -->
+<!-- Footer Snake Animation -->
 <p align="center">
-  <img src="https://github.com/nomiwsd/nomiwsd/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://github.com/nomiwsd/nomiwsd/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
 </p>
-
 <!-- Visitors Count -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nomiwsd.nominalik8051" alt="visitors"/>
