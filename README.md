@@ -40,38 +40,51 @@
 
 ---
 
-<!-- Projects Section with Icons and Presentable Layout -->
+<!-- Optimized Projects Section with Icons and Technology Badges -->
 ### 🚀 Featured Projects
 
+<!-- Zextons Project -->
 <p align="center">
-  <!-- Zextons Project -->
   <a href="https://github.com/nomiwsd/zextons" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/shopping-cart.png" alt="Zextons"/>
   </a>
   <b>Zextons</b> - An e-commerce website built using React.js and Redux Toolkit with payment integration features (Stripe, PayPal).  
-  <em>Tech Stack:</em> React.js, Redux Toolkit, Tailwind CSS, Material UI  
+  <br/>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
+  <br/>
   <img src="https://img.shields.io/github/stars/nomiwsd/zextons?style=social" alt="GitHub Stars"/>
 </p>
 
+<!-- SehatSakoon Project -->
 <p align="center">
-  <!-- SehatSakoon Project -->
   <a href="https://github.com/nomiwsd/sehatsakoon" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/medical-heart.png" alt="SehatSakoon"/>
   </a>
   <b>SehatSakoon</b> - A medical field application with modules for admin, doctors, patients, and pharmacies.  
-  <em>Tech Stack:</em> React.js, Firebase, Tailwind CSS  
+  <br/>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <br/>
   <img src="https://img.shields.io/github/stars/nomiwsd/sehatsakoon?style=social" alt="GitHub Stars"/>
 </p>
 
+<!-- Vesprr Project -->
 <p align="center">
-  <!-- Vesprr Project -->
   <a href="https://github.com/nomiwsd/vesprr" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/internet.png" alt="Vesprr"/>
   </a>
   <b>Vesprr</b> - Developed a complete company website using React JS and Tailwind CSS.  
-  <em>Tech Stack:</em> React.js, Tailwind CSS  
+  <br/>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <br/>
   <img src="https://img.shields.io/github/stars/nomiwsd/vesprr?style=social" alt="GitHub Stars"/>
 </p>
+
 ---
 
 <!-- Skills Section with Icon Badges -->
@@ -177,11 +190,21 @@ Here are the technologies and tools I work with:
 
 ---
 
+<!-- Footer Animation: A Beautiful Animation Related to Frontend Development -->
+### 🎨 Design & Development: Front-End in Action
+
+<p align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="500" height="300" alt="Front-End Development Animation"/>
+</p>
+
+---
+
 <!-- Footer Snake Animation -->
 <p align="center">
   <img src="https://github.com/nomiwsd/nomiwsd/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
 </p>
+
 <!-- Visitors Count -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nomiwsd.nominalik8051" alt="visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nomiwsd.nominalik8051" alt="Visitors"/>
 </p>
