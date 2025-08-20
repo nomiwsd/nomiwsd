@@ -1,133 +1,119 @@
-<!-- Header with animated waving hand -->
-<h1 align="center">Hi there, I'm Muhammad Nouman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h3 align="center">Front-End Developer | React.js, Redux Toolkit, TypeScript, Next.js, Modern UI Frameworks</h3>
+<!-- Professional GitHub Profile README for Muhammad Nouman -->
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nomiwsd&label=Profile%20views&color=0e75b6&style=flat" alt="nomiwsd" />
-</p>
-
-<!-- Hero GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" height="300"/>
-</p>
-
----
-
-## 🙋‍♂️ About Me
-
-- 🔭 **Front-End Developer @ Inflix Limited**
-- 🛠️ Specialized in **React.js**, **Redux Toolkit**, **TypeScript**, **Next.js**, and **UI/UX design**
-- 🌱 Currently learning **Next.js** and advanced **TypeScript** patterns
-- 💬 Ask me about **React.js**, **Redux Toolkit**, **JavaScript/TypeScript**, **Tailwind CSS**, **UI Frameworks**
-- 🏆 3+ years of hands-on experience building scalable web apps
-- 📫 Reach me at **[nomimalik8051@gmail.com](mailto:nomimalik8051@gmail.com)**
-- ☕ Coffee-driven and love coding challenges!
-
----
-
-## 🌐 Connect With Me
+<h1 align="center">Muhammad Nouman</h1>
+<h3 align="center">Front-End Engineer | React.js • TypeScript • Next.js • UI/UX Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nouman-frontenddev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/nomiwsd" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:nomimalik8051@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/nomiwsd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 About Me
 
-<!-- Zextons Project -->
-**Zextons**  
-E-commerce platform with payment integrations (Stripe, PayPal).  
-Tech: <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
-
-**SehatSakoon**  
-Medical platform for admin, doctors, patients, and pharmacies.  
-Tech: <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-**Vesprr**  
-Company website built with React JS and Tailwind CSS.  
-Tech: <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+- **Front-End Engineer at Inflix Limited**
+- 3+ years’ experience building, scaling, and maintaining production-grade web applications
+- Specializing in **React.js**, **Redux Toolkit**, **TypeScript**, **Next.js**, and **modern CSS frameworks**
+- Advocate of **best practices**: code reviews, modular architecture, reusable components, accessibility (a11y), performance optimization, and scalable state management
+- Strong background in integrating RESTful APIs, authentication/authorization, and CI/CD workflows
+- Passionate about UI/UX, atomic design patterns, and delivering pixel-perfect interfaces
+- Open to collaboration, mentorship, and technical discussions
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Core Skills & Technologies
+
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS
+- **Frameworks/Libraries:** React.js, Next.js, Redux Toolkit, Zustand, React Query, Axios
+- **Styling:** Tailwind CSS, Material UI, Styled Components, Bootstrap
+- **Testing:** Jest, React Testing Library, Cypress, Storybook
+- **Tools:** Git, GitHub, VSCode, Figma, Postman, Chrome DevTools
+- **Practices:** Component-driven development, Responsive design, Code splitting, Lazy loading, Linting & Prettier, GitHub Actions (CI/CD)
+- **Others:** Firebase, REST APIs, JWT Auth, Agile/Scrum, Documentation (JSDoc/Markdown)
+
+---
+
+## 🏆 Professional Highlights
+
+### Zextons  
+*E-commerce platform with secure payment integrations and robust state management.*  
+- **Stack:** React.js, Redux Toolkit, TypeScript, Tailwind CSS, Material UI, Stripe, PayPal  
+- **Practices:** Modular folder structure, reusable custom hooks, code-splitting, form validation with Formik & Yup, accessibility compliance
+
+### SehatSakoon  
+*Medical portal for multi-role management (admin, doctors, patients, pharmacies).*  
+- **Stack:** React.js, Firebase, Tailwind CSS  
+- **Practices:** Role-based routing & authorization, real-time updates, form wizards, analytics dashboards, dark mode support
+
+### Vesprr  
+*Corporate website focused on performance and SEO.*  
+- **Stack:** React.js, Next.js, Tailwind CSS  
+- **Practices:** SSR/SSG with Next.js, dynamic meta tags, image optimization, Lighthouse score 90+, semantic HTML
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React" />
-  <img src="https://img.icons8.com/color/48/000000/redux.png" title="Redux" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" title="Tailwind CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" />
-  <img src="https://img.icons8.com/color/48/000000/material-ui.png" title="Material UI"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
-  <img src="https://img.icons8.com/fluent/48/000000/github.png" title="GitHub"/>
-  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" title="VSCode"/>
-  <img src="https://img.icons8.com/ios-filled/48/000000/nextjs.png" title="Next.js"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nomiwsd&show_icons=true&hide_border=true&theme=react&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomiwsd&layout=compact&hide_border=true&theme=react" height="160"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Toolbox
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nomiwsd&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomiwsd&layout=compact&hide_border=true&theme=radical" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" title="Redux Toolkit"/>
+  <img src="https://img.icons8.com/ios-filled/48/000000/nextjs.png" alt="Next.js" title="Next.js"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" title="Material UI"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+  <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" title="GitHub"/>
+  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VSCode" title="VSCode"/>
+  <img src="https://img.icons8.com/color/48/000000/jest.png" alt="Jest" title="Jest"/>
+  <img src="https://img.icons8.com/color/48/000000/storybook.png" alt="Storybook" title="Storybook"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" title="Figma"/>
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 📑 Best Practices I Rely On
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomiwsd&theme=radical&hide_border=true" alt="nomiwsd" />
-</p>
-
----
-
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nomiwsd&theme=radical&no-frame=true&column=6" alt="nomiwsd" />
-</p>
+- **Type safety:** All major projects leverage TypeScript for maintainability and scalability
+- **Reusable components:** Atomic design, Storybook-driven development for UI consistency
+- **State management:** Redux Toolkit with slices/selectors, middleware for async flows; evaluated Zustand and React Query for performance-sensitive features
+- **Testing:** Unit & integration tests with Jest + RTL; E2E with Cypress for critical flows
+- **CI/CD:** Automated checks, linting, and deploys via GitHub Actions
+- **Code reviews:** Regular peer reviews; emphasis on clean, readable, and well-documented code
+- **Performance:** Lazy loading, code splitting, memoization, and web vitals monitoring
+- **Accessibility:** Keyboard navigation, ARIA roles, and color contrast checks
+- **Documentation:** JSDoc and Markdown for developer onboarding and API clarity
 
 ---
 
-## 💡 Fun Fact
+## 📬 Let's Connect
 
-> "First, solve the problem. Then, write the code." – John Johnson
-
----
-
-## 💬 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
+- 💼 [LinkedIn](https://linkedin.com/in/nouman-frontenddev)
+- 📧 [Email](mailto:nomimalik8051@gmail.com)
+- 💻 [GitHub](https://github.com/nomiwsd)
 
 ---
 
-## 🎨 Design & Development in Action
-
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="500" height="300" alt="Front-End Development Animation"/>
-</p>
-
----
-
-<!-- Visitors Count -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nomiwsd.nominalik8051" alt="Visitors"/>
+  <sub>Crafted with passion for modern web engineering • Last updated: August 2025</sub>
 </p>
