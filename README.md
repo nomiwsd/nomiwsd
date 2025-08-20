@@ -1,33 +1,35 @@
 <!-- Header with animated waving hand -->
 <h1 align="center">Hi there, I'm Muhammad Nouman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h3 align="center">A passionate Front-End Developer specializing in React.js, Redux Toolkit, and modern UI frameworks.</h3>
+<h3 align="center">Front-End Developer | React.js, Redux Toolkit, TypeScript, Next.js, Modern UI Frameworks</h3>
 
-<!-- Visitor counter -->
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nomiwsd&label=Profile%20views&color=0e75b6&style=flat" alt="nomiwsd" />
 </p>
 
-<!-- Animated GIF -->
+<!-- Hero GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" height="300"/>
 </p>
 
 ---
 
-<!-- Introduction with Cool Emojis -->
-### 🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
-- 🔭 Currently working as a **Front-End Developer at Inflix Limited**.
-- 🌱 Always learning new things and currently exploring **TypeScript** and **Next.js**.
-- 💬 Ask me about **React.js**, **Redux Toolkit**, **JavaScript**, or **Tailwind CSS**.
-- 📫 Reach me at **[nomimalik8051@gmail.com](mailto:nomimalik8051@gmail.com)**.
-- ⚡ Fun fact: I love coding challenges and I’m a coffee addict! ☕
+- 🔭 **Front-End Developer @ Inflix Limited**
+- 🛠️ Specialized in **React.js**, **Redux Toolkit**, **TypeScript**, **Next.js**, and **UI/UX design**
+- 🌱 Currently learning **Next.js** and advanced **TypeScript** patterns
+- 💬 Ask me about **React.js**, **Redux Toolkit**, **JavaScript/TypeScript**, **Tailwind CSS**, **UI Frameworks**
+- 🏆 3+ years of hands-on experience building scalable web apps
+- 📫 Reach me at **[nomimalik8051@gmail.com](mailto:nomimalik8051@gmail.com)**
+- ☕ Coffee-driven and love coding challenges!
 
 ---
 
-<!-- Social Links & Icons with More Presentable Layout -->
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/nouman-frontenddev/" target="_blank">
+  <a href="https://linkedin.com/in/nouman-frontenddev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/nomiwsd" target="_blank">
@@ -40,91 +42,45 @@
 
 ---
 
-<!-- Optimized Projects Section with Icons and Technology Badges -->
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <!-- Zextons Project -->
-<p align="left">
-  <b>Zextons</b> - An e-commerce website built using React.js and Redux Toolkit with payment integration features (Stripe, PayPal).  
-  <br/>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
-  <br/>
-</p>
+**Zextons**  
+E-commerce platform with payment integrations (Stripe, PayPal).  
+Tech: <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
 
-<!-- SehatSakoon Project -->
-<p align="left">
-  <b>SehatSakoon</b> - A medical field application with modules for admin, doctors, patients, and pharmacies.  
-  <br/>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <br/>
-</p>
+**SehatSakoon**  
+Medical platform for admin, doctors, patients, and pharmacies.  
+Tech: <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-<!-- Vesprr Project -->
-<p align="left">
-  <b>Vesprr</b> - Developed a complete company website using React JS and Tailwind CSS.  
-  <br/>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <br/>
-</p>
+**Vesprr**  
+Company website built with React JS and Tailwind CSS.  
+Tech: <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 ---
 
-<!-- Skills Section with Icon Badges -->
-### 🛠️ Skills
-
-Here are the technologies and tools I work with:
-
-#### Languages and Tools:
+## 🛠️ Skills & Tools
 
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
-  </a>
-  <a href="https://mui.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
-  </a>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React" />
+  <img src="https://img.icons8.com/color/48/000000/redux.png" title="Redux" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" title="Tailwind CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/000000/material-ui.png" title="Material UI"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
+  <img src="https://img.icons8.com/fluent/48/000000/github.png" title="GitHub"/>
+  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" title="VSCode"/>
+  <img src="https://img.icons8.com/ios-filled/48/000000/nextjs.png" title="Next.js"/>
 </p>
 
 ---
 
-<!-- GitHub Stats Section with Icons -->
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nomiwsd&show_icons=true&hide_border=true&theme=radical" />
@@ -133,8 +89,7 @@ Here are the technologies and tools I work with:
 
 ---
 
-<!-- GitHub Streak Stats -->
-### 🔥 Streak Stats
+## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomiwsd&theme=radical&hide_border=true" alt="nomiwsd" />
@@ -142,8 +97,7 @@ Here are the technologies and tools I work with:
 
 ---
 
-<!-- GitHub Trophies with Icons -->
-### 🏆 GitHub Profile Trophy
+## 🏆 GitHub Profile Trophy
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nomiwsd&theme=radical&no-frame=true&column=6" alt="nomiwsd" />
@@ -151,26 +105,13 @@ Here are the technologies and tools I work with:
 
 ---
 
-<!-- Fun Fact Section with an Icon -->
-### 💡 Fun Fact
+## 💡 Fun Fact
 
 > "First, solve the problem. Then, write the code." – John Johnson
 
 ---
 
-<!-- Connect with me Section -->
-### 🤝 Connect with me
-
-<p align="center">
-  <a href="mailto:nomimalik8051@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/></a>
-  <a href="https://linkedin.com/in/nouman-frontenddev" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://github.com/nomiwsd" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
-</p>
-
----
-
-<!-- Dynamic Quote -->
-### 💬 Quote of the Day
+## 💬 Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
@@ -178,15 +119,13 @@ Here are the technologies and tools I work with:
 
 ---
 
-<!-- Footer Animation: A Beautiful Animation Related to Frontend Development -->
-### 🎨 Design & Development: Front-End in Action
+## 🎨 Design & Development in Action
 
 <p align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="500" height="300" alt="Front-End Development Animation"/>
 </p>
 
 ---
-
 
 <!-- Visitors Count -->
 <p align="center">
