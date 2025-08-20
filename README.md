@@ -75,7 +75,7 @@
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" title="Redux Toolkit"/>
-  <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="Next.js" title="Next.js"/>
+  <img src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png&color=000000" alt="Next.js" title="Next.js"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"/>
   <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" title="Material UI"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
