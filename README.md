@@ -75,7 +75,7 @@
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" title="Redux Toolkit"/>
-  <img src="https://img.icons8.com/ios-filled/48/000000/nextjs.png" alt="Next.js" title="Next.js"/>
+  <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="Next.js" title="Next.js"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"/>
   <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" title="Material UI"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
@@ -85,7 +85,6 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
   <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" title="GitHub"/>
   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VSCode" title="VSCode"/>
-  <img src="https://img.icons8.com/color/48/000000/jest.png" alt="Jest" title="Jest"/>
   <img src="https://img.icons8.com/color/48/000000/storybook.png" alt="Storybook" title="Storybook"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" title="Figma"/>
 </p>
