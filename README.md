@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 - **Front-End Engineer at Inflix Limited**
-- 3+ years’ experience building, scaling, and maintaining production-grade web applications
+- 2+ years’ experience building, scaling, and maintaining production-grade web applications
 - Specializing in **React.js**, **Redux Toolkit**, **TypeScript**, **Next.js**, and **modern CSS frameworks**
 - Advocate of **best practices**: code reviews, modular architecture, reusable components, accessibility (a11y), performance optimization, and scalable state management
 - Strong background in integrating RESTful APIs, authentication/authorization, and CI/CD workflows
@@ -34,7 +34,6 @@
 - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS
 - **Frameworks/Libraries:** React.js, Next.js, Redux Toolkit, Zustand, React Query, Axios
 - **Styling:** Tailwind CSS, Material UI, Styled Components, Bootstrap
-- **Testing:** Jest, React Testing Library, Cypress, Storybook
 - **Tools:** Git, GitHub, VSCode, Figma, Postman, Chrome DevTools
 - **Practices:** Component-driven development, Responsive design, Code splitting, Lazy loading, Linting & Prettier, GitHub Actions (CI/CD)
 - **Others:** Firebase, REST APIs, JWT Auth, Agile/Scrum, Documentation (JSDoc/Markdown)
@@ -96,8 +95,6 @@
 - **Type safety:** All major projects leverage TypeScript for maintainability and scalability
 - **Reusable components:** Atomic design, Storybook-driven development for UI consistency
 - **State management:** Redux Toolkit with slices/selectors, middleware for async flows; evaluated Zustand and React Query for performance-sensitive features
-- **Testing:** Unit & integration tests with Jest + RTL; E2E with Cypress for critical flows
-- **CI/CD:** Automated checks, linting, and deploys via GitHub Actions
 - **Code reviews:** Regular peer reviews; emphasis on clean, readable, and well-documented code
 - **Performance:** Lazy loading, code splitting, memoization, and web vitals monitoring
 - **Accessibility:** Keyboard navigation, ARIA roles, and color contrast checks
