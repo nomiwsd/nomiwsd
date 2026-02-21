@@ -142,8 +142,7 @@ const nouman = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nomiwsd&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=FF4500&icon_color=FF4500&text_color=F5ECD7&count_private=true&include_all_commits=true" height="170"/>
-&nbsp;&nbsp;
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomiwsd&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=FF4500&text_color=F5ECD7" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomiwsd&hide_border=true&background=0a0a0a&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideLabels=F5ECD7&currStreakNum=F5ECD7&dates=555555&stroke=1a1a1a" height="150"/>
