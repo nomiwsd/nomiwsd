@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nouman-frontenddev)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomimalik8051@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nomiwsd)
+[![Portfolio](https://img.shields.io/website&logoColor=white)](https://nomiwsd.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923187680511)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nomiwsd&style=flat-square&color=FF4500&label=PROFILE+VIEWS)
@@ -34,6 +35,7 @@ const nouman = {
   domains:     ["E-Commerce", "Healthcare", "Food Tech", "Fintech", "Blockchain"],
   available:   "Remote · Pakistan · Saudi Arabia · Qatar · UAE",
   contact:     "nomimalik8051@gmail.com  ·  +92 318 7680511",
+  portfolio:"https://nomiwsd.vercel.app/"
 };
 ```
 
